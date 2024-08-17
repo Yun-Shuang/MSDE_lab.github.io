@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Mapping Schizophrenia brain by Development and Evolution"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+The lab of "Mapping Schizophrenia brain by Development and Evolution" (MSDE LAB) is directed by Dr. Yun-Shuang Fan [Google Scholar]([https://github.com/academicpages/academicpages.github.io](https://scholar.google.ca/citations?user=CY_RlkAAAAAJ&hl=en)) [Achademic pages](https://sites.google.com/view/fmrifanys). We map schizophrenia brain based on MRI and functional MRI data, and further investigate schizophrenia brain by developmental and evolutional factors. Please contact us if you are interested in a collaboration with us or learn more about our works :) [E-mail](fmrifanys@gmail.com).
 
 A data-driven personal website
 ======
