@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-The lab of "Mapping Schizophrenia brain by Development and Evolution" (MSDE LAB) is directed by Dr. Yun-Shuang Fan [Google Scholar]([https://github.com/academicpages/academicpages.github.io](https://scholar.google.ca/citations?user=CY_RlkAAAAAJ&hl=en)) [Achademic pages](https://sites.google.com/view/fmrifanys). We map schizophrenia brain based on MRI and functional MRI data, and further investigate schizophrenia brain by developmental and evolutional factors. Please contact us if you are interested in a collaboration with us or learn more about our works :) [E-mail](fmrifanys@gmail.com).
+The lab of "Mapping Schizophrenia brain by Development and Evolution" (MSDE LAB) is directed by Dr. Yun-Shuang Fan [Google Scholar](https://github.com/academicpages/academicpages.github.io](https://scholar.google.ca/citations?user=CY_RlkAAAAAJ&hl=en)) [Achademic pages](https://sites.google.com/view/fmrifanys). We map schizophrenia brain based on MRI and functional MRI data, and further investigate schizophrenia brain by developmental and evolutional factors. Please contact us if you are interested in a collaboration with us or learn more about our works :) [E-mail](fmrifanys@gmail.com).
 
 A data-driven personal website
 ======
